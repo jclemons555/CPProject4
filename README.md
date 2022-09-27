@@ -2,7 +2,7 @@
 
 Submitted by: Joshua Clemons
 
-Flixster is a movie browsing app that allows users to browse ... [TODO] 
+Flixster is a movie browsing app that allows users to browse movie trailers and their ratings 
 
 Time spent: **8** hours spent in total
 
